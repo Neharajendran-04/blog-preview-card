@@ -28,6 +28,6 @@ Through this project, I practiced building a layout from a static design, using 
 
 ## Links
 
-* Live Site: [View Live Site](https://blog-preview-card-mentors.netlify.app/)
+* Live Site: [View Live Site](https://blog-preview-card-frontend-mentors.netlify.app/)
 * Repository: [GitHub](https://github.com/Neharajendran-04/blog-preview-card)
 
